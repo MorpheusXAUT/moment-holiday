@@ -1,5 +1,5 @@
 //! moment-holiday.js
-//! version : 1.5.2
+//! version : 1.5.3
 //! author : Kodie Grantham
 //! license : MIT
 //! https://github.com/kodie/moment-holiday
