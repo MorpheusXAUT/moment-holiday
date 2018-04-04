@@ -3,6 +3,8 @@
 
 A [Moment.js](https://github.com/moment/moment) plugin for handling holidays.
 
+**This package is a fork of [moment-holiday](https://github.com/kodie/moment-holiday) for the aaa registry, mainly containing the `Austria` locale until the pull request to the official repo has been merged**
+
 ## Table of Contents
 * [Requirements](#requirements)
 * [Installation](#installation)
