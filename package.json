@@ -1,6 +1,6 @@
 {
-  "name": "moment-holiday",
-  "version": "1.5.1",
+  "name": "moment-holiday-aaa",
+  "version": "1.5.2",
   "description": "A Moment.js plugin for handling holidays.",
   "keywords": [
     "moment",
@@ -25,14 +25,21 @@
     "email": "kodie.grantham@gmail.com",
     "url": "http://kodieg.com"
   },
+  "contributors": [
+    {
+      "name": "Nick Müller",
+      "email": "nick.mueller@allaboutapps.at",
+      "url": "https://github.com/MorpheusXAUT"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodie/moment-holiday.git"
+    "url": "https://github.com/MorpheusXAUT/moment-holiday.git"
   },
   "bugs": {
-    "url": "https://github.com/kodie/moment-holiday/issues"
+    "url": "https://github.com/MorpheusXAUT/moment-holiday/issues"
   },
-  "homepage": "https://github.com/kodie/moment-holiday",
+  "homepage": "https://github.com/MorpheusXAUT/moment-holiday",
   "license": "MIT",
   "main": "./build/moment-holiday-us.min.js",
   "files": [
@@ -56,5 +63,8 @@
   },
   "scripts": {
     "test": "./node_modules/.bin/jshint *.js locale/*.js && ava"
+  },
+  "publishConfig": {
+    "registry": "https://npm.allaboutapps.at"
   }
 }
