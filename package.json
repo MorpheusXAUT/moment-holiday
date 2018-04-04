@@ -1,5 +1,5 @@
 {
-  "name": "moment-holiday-aaa",
+  "name": "@aaa/moment-holiday",
   "version": "1.5.2",
   "description": "A Moment.js plugin for handling holidays.",
   "keywords": [
